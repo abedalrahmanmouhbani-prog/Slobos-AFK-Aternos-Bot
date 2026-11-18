@@ -1,21 +1,21 @@
 {
-  "name": "",
+  "name": "AbedBot",
   "bot-account": {
     "username": "",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip ": "Abedalrahman796-dh8J.aternos.me:",
+    "ip ":"Abedalrahman796-dh8J.aternos.me",
     "port": 57988,
     "version": "1.21.11",
     "try-creative": false
   },
-  "position": {
+  "position": {true
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 1000,
+    "y": 0,
+    "z": 90
   },
   "utils": {
     "auto-auth": {
