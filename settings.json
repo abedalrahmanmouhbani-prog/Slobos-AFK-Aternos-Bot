@@ -1,12 +1,12 @@
 {
   "name": "abedBot",
   "bot-account": {
-    "username": "",
+    "username": "abedBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip":"Abedalrahman796-dh8J.aternos.me",
+    "ip":"Abedalrahman796-dh8J.aternos.me:57988",
     "port": 57988,
     "version": "1.21.11",
     "try-creative": false
