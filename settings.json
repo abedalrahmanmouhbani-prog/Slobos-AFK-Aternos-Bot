@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip":"Abedalrahman796-dh8J.aternos.me:57988",
+    "ip":"Abedalrahman796-dh8J.aternos.me",
     "port": 57988,
-    "version": "26.3",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
